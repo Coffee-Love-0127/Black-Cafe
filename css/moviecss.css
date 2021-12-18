@@ -1,0 +1,78 @@
+html{background-color: black; color: white; text-align: center;
+  margin: 3px 12px;}
+
+
+  /* header */
+.メニューバー{
+  border-bottom: solid 0.8px rgb(190, 190, 190);
+}
+
+.メニューバー p{
+  display: inline-block; font-size: 12px;
+  margin-bottom: 0px; border: none;
+margin-top: 12px; margin-bottom: 6px;}
+
+.メニューバー a{
+  color: aqua; text-decoration: none;}
+  
+  .twitter img{
+    width: 22px; height: 22px; border-radius: 50%;
+  }
+    
+  .twitter{float: right; margin-top: 8px;}
+
+
+ .タイトル h1{
+  border-left: 8px chocolate solid; font-weight: normal;
+  text-align: left; margin-top: 28px;padding-left: 8px;}
+  
+  .タイトル h2{
+  text-align: center; font-weight: normal; margin-top: 0px;}
+  
+  
+  header .icon{
+    width: 100px; height: 100px; border-radius: 50%; border:3px solid black ;
+  margin: 0px; margin-right:26px; border: 0;}
+  
+  
+  .サイトの説明{
+    display: flex; justify-content: center; margin: 0; margin-top: 12px; padding: 20px 0px; border: 2px solid white; border-radius: 5px;}
+  
+    .サイトの説明 p{margin-top: 12px; line-height: 2.2em; margin: 0px;}
+    
+    
+    .著者情報{
+      background-color: black;
+      position: relative;
+      top: 26px;
+      display: inline;
+      padding-right: 6px;
+      right: 140px;
+    }
+
+    
+/* 記事 */
+    
+.記事 h1{padding-top: 48px; margin-bottom: -32px;}
+    
+.記事 h2{padding-top: 48px;font-weight: normal;}
+
+.感想{line-height: 2.8em; font-weight: lighter; font-size: larger;}
+
+
+.引用{opacity: 0.7; font-size: 16px; color: aqua;}
+
+
+
+
+
+  /* footer */
+
+  
+  .日常{padding-top: 32px; padding-bottom: 48px;}
+
+  .顔文字{
+    font-weight: lighter;
+    font-size: small;
+  }
+  

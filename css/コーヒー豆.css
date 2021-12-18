@@ -1,0 +1,257 @@
+html{background-color: black; color: white; text-align: center;
+  margin: 4px 0px;}
+
+
+  /* header */
+.メニューバー{
+  border-bottom: solid 0.8px rgb(190, 190, 190);
+}
+
+.メニューバー p{
+  display: inline-block; font-size: 12px;
+  margin-bottom: 0px; border: none;
+margin-top: 12px; margin-bottom: 6px;}
+
+.メニューバー a{
+  color: aqua; text-decoration: none;}
+  
+  .twitter img{
+    width: 22px; height: 22px; border-radius: 50%;
+  }
+    
+  .twitter{float: right; margin-top: 8px;}
+
+
+ .タイトル h1{
+  border-left: 8px chocolate solid; font-weight: normal;
+  text-align: left; margin-top: 28px;padding-left: 8px;}
+  
+  .タイトル h2{
+  text-align: center; font-weight: normal; margin-top: 0px;}
+  
+  
+  header .icon{
+    width: 100px; height: 100px; border-radius: 50%; border:3px solid black ;
+  margin: 0px; margin-right:26px; border: 0;}
+  
+  
+  .サイトの説明{
+    display: flex; justify-content: center; margin: 0; margin-top: 12px; padding: 20px 0px; border: 2px solid white; border-radius: 5px;}
+  
+    .サイトの説明 p{margin-top: 12px; line-height: 2.2em; margin: 0px;}
+    
+    .著者情報{
+      background-color: black;
+      position: relative;
+      top: 26px;
+      display: inline;
+      padding-right: 6px;
+      right: 135px;
+    }
+
+
+
+    
+
+/* 記事 */
+.記事 h1{padding-top: 48px; margin-bottom: -32px;}
+
+.記事 h2{padding-top: 48px;font-weight: normal;}
+  
+  .coffee{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 0px;
+  }
+
+  #tukano  p, #bluemountain  p, #manderin  p, #mokabrend p, #kilimanjaro p, #roast p{
+font-size: 18px;
+color: black;
+font-weight: bold;
+margin: 0px;
+  }
+  
+  .コーヒー分類{
+  position: relative;
+  margin-top: 10px;
+  }
+
+
+
+    
+  #tukano{
+  position: absolute;
+  top: 26%;
+  right: 46%;
+  }
+  
+  #bluemountain{
+    position: absolute;
+    top: 47%;
+    right:46%;
+  }
+  
+  #manderin{
+    position: absolute;
+    top: 26%;
+    right: 26%;
+  }
+  
+  #mokabrend{
+    position: absolute;
+    top: 20%;
+    right: 59%;
+  }
+  
+  #kilimanjaro{
+    position: absolute;
+    top: 47%;
+    right: 64%;
+  }
+  
+  #roast{
+    position: absolute;
+    top: 47%;
+    right: 26%;
+  }
+
+
+
+
+  .目次{
+  font-size: 12px;
+  color: white;
+  margin: 0px;
+  text-align: left;
+  padding: 4px 0px;
+  
+  }
+
+  .コーヒー一覧{
+    border-left: 8px chocolate solid;
+    font-weight: bolder;
+    margin: 160px auto 80px; 
+    padding-left: 8px;
+    font-size: 24px;
+    text-align: left;
+  }
+  
+  .コーヒー紹介 {
+padding: 0px;
+margin: 0px 7px;
+  }
+
+  .コーヒー紹介 li{
+    margin-bottom: 120px;
+    list-style: none;
+    border: white 2px solid;
+    border-radius: 5px;
+    padding-left: 8px;
+  }
+  
+  .名前{
+    font-size: 22px;
+    margin: 10px 0px 0px;
+    display: inline-block;
+    background-color: black;
+    position: relative;
+    bottom: 22px;
+    right: 11px;
+    padding: 0px 6px;
+  }
+
+
+
+h2{
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+
+
+.トップ{
+  margin-left: 10px;
+  padding-right: 8px;
+  padding-left: 10px;
+  position: relative;
+  top: 16px;
+  background-color: black;
+  display: inline;
+}
+
+
+
+span{
+  position: relative;
+  top: 4px;
+  margin-right: 4px;
+  padding-top: 4px;
+}
+
+
+.inline{
+  padding-bottom: 18px;
+}
+
+
+
+
+.トップまとめ{
+  border: white solid 2px;
+  border-radius: 10px;
+  margin-left: 8px;
+  margin-right: 8px;
+  padding-top: 12px;
+  
+}
+
+
+.番号 li{
+  margin-top: 20px;
+  text-align: left;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.番号 a{
+  text-decoration: none;
+}
+
+.感想{
+  line-height: 2.0em; ;
+margin-top: 12px;
+margin-right: 12px;
+}
+
+.点数{
+  font-size: 20px;
+  color: rgb(245, 248, 50);
+}
+
+.始まり{
+  color: aqua;
+  text-decoration: none;
+  text-align: center;
+}
+
+
+   
+  
+
+
+
+
+  /* footer */
+  
+  .著者{display: flex; justify-content: center; margin: 24px auto 12px auto;}
+  
+  .著者 img{width: 64px; height: 64px; border-radius: 50%;}
+  
+  .著者 p{padding-top: 10px; padding-left: 12px;}
+  
+  .日常{padding-top: 32px; padding-bottom: 48px;}
+

@@ -1,0 +1,172 @@
+/* header要素 */
+html{background-color: black; color: white;
+  margin: 4px 10px;}
+
+
+.メニューバー{
+  border-bottom: solid 0.8px rgb(190, 190, 190);
+  margin-top: 12px; margin-bottom: 8px; text-align: center;
+}
+
+.メニューバー p{
+  display: inline-block; font-size: 16px; margin-right: 14px;
+  margin-bottom: 0px; border: none;}
+
+.メニューバー a{
+  color: aqua; text-decoration: none;}
+  
+  .twitter img{
+    width: 22px; height: 22px; border-radius: 50%;
+  }
+    
+ .twitter{float: right; margin-top: 8px;}
+
+
+.タイトル h1{
+border-left: 8px chocolate solid; font-weight: normal;
+text-align: left; margin-top: 28px;padding-left: 8px;}
+
+.タイトル h2{
+text-align: center; font-weight: normal; margin-top: 0px;}
+
+
+header .icon{
+  width: 100px; height: 100px; border-radius: 50%; border:3px solid black ;
+margin: 0px; margin-right:26px; border: 0;}
+
+
+.サイトの説明{
+  display: flex; justify-content: center; margin: 0; margin-top: 12px; padding: 20px 0px; border: 2px solid white; border-radius: 5px;}
+
+  .サイトの説明 p{margin-top: 12px; line-height: 2.2em; margin: 0px;}
+
+  
+  body h1{
+  margin-top: 20px; margin-bottom: 8px;
+  text-align: center; font-family: cursive;
+  font-size: 34px;}
+  
+  
+  
+
+
+
+
+
+
+
+  /* 共通の設定 */
+  li{text-align: center; width: 50%;}
+
+  li > p{margin: 8px 0px 60px; font-size: 18px;} 
+
+ul{margin: 0px; padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;}
+  
+  .引用1{
+    color: aqua;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 5px;
+  }
+  
+  .引用2{opacity: 0.5;
+    font-size: 16px; color: aqua;
+    margin: 3px 0px;
+  }
+  
+
+
+
+
+
+
+
+
+  /* Others要素 */
+  .ブラックに挑戦,.コーヒー豆まとめ{
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  
+  .ブラックに挑戦 > h2{
+    margin-bottom: 18px;
+    margin-top: 24px;
+    font-weight: lighter;
+  }
+  .コーヒー豆まとめ >h2{
+    margin-bottom: 18px;
+    margin-top: 100px;
+    font-weight: lighter;
+  }
+  
+  .ブラックに挑戦 > p ,.コーヒー豆まとめ > p{
+    margin-bottom: 0px;
+    margin-top:0px;
+    line-height:  1.8em;
+  }
+  
+  .挑戦{
+    font-size: larger;
+    color: aqua;
+    text-decoration: none;
+  }
+
+  
+
+
+
+
+
+
+/* JavaScript要素 */
+  .menu{
+    background-image: url("画像/看板.jpg");
+    text-align: center;
+    margin: 70px 0px 0px;
+    padding: 30px 0px;
+    color: black; font-weight: bold;
+    background-position: center;
+    background-size: 100% 110%;
+  }
+  
+  #openbutton1, #openbutton2, #openbutton3, #closebutton1, #closebutton2 ,#closebutton3{
+    background-image: url("画像/木材.jpg");
+    width: 100%;
+    height: 50%;
+    font-size: 42px;
+    margin-bottom: 30px;
+    color: white;
+    text-align: center;
+  }
+  
+  #closebutton1, #closebutton2, #closebutton3{
+    margin-bottom: 30px;
+  }
+  
+  .hidden{
+    display: none !important;
+  }
+  
+  
+  
+
+
+
+  
+  
+  
+  /* footer要素 */
+  footer{text-align: center; padding: 64px;}
+  
+  .題名{font-size: 24px; padding-bottom: 0; color: chocolate;}
+  
+  .著者情報{
+    background-color: black;
+    position: relative;
+    top: 26px;
+    display: inline;
+    padding-right: 8px;
+  }
