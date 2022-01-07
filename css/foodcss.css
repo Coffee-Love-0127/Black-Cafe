@@ -2,6 +2,12 @@ html{background-color: black; color: white; text-align: center;
   margin: 3px 12px;}
 
 
+  body{
+    max-width: 400px;
+    margin: auto;
+    padding: 1px 3px;
+    }
+
   /* header */
 .メニューバー{
   border-bottom: solid 0.8px rgb(190, 190, 190);

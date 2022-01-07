@@ -1,6 +1,12 @@
 html{background-color: black; color: white; 
   margin: 3px 12px;}
 
+  body{
+    max-width: 400px;
+    margin: auto;
+    padding: 1px 3px;
+    }
+
 
   /* header */
 .メニューバー{

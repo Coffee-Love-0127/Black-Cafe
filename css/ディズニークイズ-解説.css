@@ -4,6 +4,12 @@ html{
   color: white;
     margin: 4px 0px;}
 
+    body{
+      max-width: 400px;
+      margin: auto;
+      padding: 1px 3px;
+      }
+
 .メニューバー{
   border-bottom: solid 0.8px rgb(190, 190, 190);
   text-align: center;
