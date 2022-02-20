@@ -1,4 +1,4 @@
-html{background-color: black; color: white; 
+html{background-color: rgb(22, 22, 22); color: rgb(219, 219, 219);
   margin: 3px 12px;}
 
   body{
@@ -38,7 +38,7 @@ margin-top: 12px; margin-bottom: 6px;}
   
   
   header .icon{
-    width: 100px; height: 100px; border-radius: 50%; border:3px solid black ;
+    width: 100px; height: 100px; border-radius: 50%; border:3px solid rgb(22, 22, 22) ;
   margin: 0px; margin-right:26px; border: 0;}
   
   
@@ -48,7 +48,7 @@ margin-top: 12px; margin-bottom: 6px;}
     .サイトの説明 p{margin-top: 12px; line-height: 2.2em; margin: 0px;}
     
     .著者情報{
-      background-color: black;
+      background-color: rgb(22, 22, 22);
       position: relative;
       top: 26px;
       display: inline;
@@ -65,7 +65,7 @@ margin-top: 12px; margin-bottom: 6px;}
   margin: 40px 0px 12px;
   font-size: 24px;
   font-weight: normal;
-  background-color: black;
+  background-color: rgb(22, 22, 22);
   position: relative;
   top: 80px;
   display: inline;

@@ -1,8 +1,8 @@
 /* header要素 */
-html{background-color: black; color: white;
+html{background-color: rgb(22, 22, 22); color: rgb(219, 219, 219);
   margin: 4px 10px;}
 
-  body{
+body{
     max-width: 400px;
     margin: auto;
     padding: 1px 3px;
@@ -36,7 +36,7 @@ text-align: center; font-weight: normal; margin-top: 0px;}
 
 
 header .icon{
-  width: 100px; height: 100px; border-radius: 50%; border:3px solid black ;
+  width: 100px; height: 100px; border-radius: 50%; border:3px solid  rgb(22, 22, 22);
 margin: 0px; margin-right:26px; border: 0;}
 
 
@@ -169,7 +169,7 @@ ul{margin: 0px; padding: 0px;
   .題名{font-size: 24px; padding-bottom: 0; color: chocolate;}
   
   .著者情報{
-    background-color: black;
+    background-color: rgb(22, 22, 22);
     position: relative;
     top: 26px;
     display: inline;

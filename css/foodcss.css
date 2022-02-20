@@ -1,4 +1,4 @@
-html{background-color: black; color: white; text-align: center;
+html{background-color: rgb(22, 22, 22); color: rgb(219, 219, 219); text-align: center;
   margin: 3px 12px;}
 
 
@@ -47,12 +47,12 @@ margin-top: 12px; margin-bottom: 6px;}
     .サイトの説明 p{margin-top: 12px; line-height: 2.2em; margin: 0px;}
     
     .著者情報{
-      background-color: black;
+      background-color: rgb(22, 22, 22);
       position: relative;
       top: 26px;
       display: inline;
       padding-right: 6px;
-      right: 140px;
+      right: 120px;
     }
 
 

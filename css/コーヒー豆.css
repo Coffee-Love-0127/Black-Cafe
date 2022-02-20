@@ -1,4 +1,6 @@
-html{background-color: black; color: white; text-align: center;
+html{background-color: rgb(22, 22, 22);
+   color: rgb(224, 224, 224);
+   text-align: center;
   margin: 4px 0px;}
 
   body{
@@ -46,12 +48,12 @@ margin-top: 12px; margin-bottom: 6px;}
     .サイトの説明 p{margin-top: 12px; line-height: 2.2em; margin: 0px;}
     
     .著者情報{
-      background-color: black;
+      background-color: rgb(22, 22, 22);
       position: relative;
       top: 26px;
       display: inline;
       padding-right: 6px;
-      right: 135px;
+      right: 127px;
     }
 
 
@@ -67,7 +69,7 @@ margin-top: 12px; margin-bottom: 6px;}
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background-color: black;
+    background-color: rgb(22, 22, 22);
     margin: 0px;
   }
 
@@ -160,7 +162,7 @@ margin: 0px 7px;
     font-size: 22px;
     margin: 10px 0px 0px;
     display: inline-block;
-    background-color: black;
+    background-color: rgb(22, 22, 22);
     position: relative;
     bottom: 22px;
     right: 11px;
@@ -184,7 +186,7 @@ h2{
   padding-left: 10px;
   position: relative;
   top: 16px;
-  background-color: black;
+  background-color: rgb(22, 22, 22);
   display: inline;
 }
 
